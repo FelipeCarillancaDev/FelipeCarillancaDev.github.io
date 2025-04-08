@@ -15,12 +15,15 @@ body {
   font-family: "ABeeZee", sans-serif;
   background-color: #000;
 }
+/*
+codigo de abajo es para el scroll de la pagina
+*/
 html::-webkit-scrollbar {
-  background-color: #46465e;
+  background-color: #000;
   width: 10px;
 }
 html::-webkit-scrollbar-thumb {
-  background-color: #01be96;
+  background-color: #3a1414;
   border-radius: 20px;
   width: 10px;
 }
